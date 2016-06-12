@@ -88,7 +88,7 @@ JSON. The detailed help info for the four functions can be found below:
  
           Nedialko Krouchev: http://www.mathworks.com/matlabcentral/fileexchange/25713
              created on 2009/11/02
-          François Glineur: http://www.mathworks.com/matlabcentral/fileexchange/23393
+          Franï¿½ois Glineur: http://www.mathworks.com/matlabcentral/fileexchange/23393
              created on  2009/03/22
           Joel Feenstra:
           http://www.mathworks.com/matlabcentral/fileexchange/20565
@@ -355,7 +355,7 @@ Here are the known issues:
 # 3D or higher dimensional cell/struct-arrays will be converted to 2D arrays;
 # When processing names containing multi-byte characters, Octave and MATLAB \
 can give different field-names; you can use feature('DefaultCharacterSet','latin1') \
-in MATLAB to get consistant results
+in MATLAB to get consistent results
 # savejson can not handle class and dataset.
 # saveubjson converts a logical array into a uint8 ([U]) array
 # an unofficial N-D array count syntax is implemented in saveubjson. We are \
